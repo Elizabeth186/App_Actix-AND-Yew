@@ -14,12 +14,13 @@ Para poder ejecutar en back-end en actix utilizaremos
 
  Esto inicializara ambas partes del programa.
 
+
  # API
 
 Con la api se pueden realizar pruebas a traves de postman u otro servicio de pruebas.
  
  ## AGREGAR UN NUEVO DATO
-Para agregar un nuevo dato, lo haremos de la siguiente manera
+Para agregar un nuevo dato haremos de la siguiente:
 
 {
   "id":3,
