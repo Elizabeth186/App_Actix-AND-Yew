@@ -2,6 +2,14 @@
 Realizacion de una Api rest en Actix con Front-end en Yew, es una aplicacion de programacion de series y peliculas.
 Para los estilos se utilizo la libreria de Tailwindcss.
 
+# liks repo
+links de repositorios por separado 
+
+## Yew
+https://github.com/Elizabeth186/App_Yew
+
+## Actix
+
 
 # RUN
 ## Actix
