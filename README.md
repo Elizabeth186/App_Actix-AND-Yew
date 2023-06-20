@@ -23,11 +23,11 @@ Con la api se pueden realizar pruebas a traves de postman u otro servicio de pru
 Para agregar un nuevo dato haremos de la siguiente:
 
 {
-  "id":3,
-	"title":"Espiritu Indomable",
-	"description": "Pelicula Familiar A",
-	"code": "B1000000" ,
-	"hour":"3:00 PM"
+  "id":6,
+	"title":"Hey Arnold",
+	"description": "C4|T12 Sombras Nocturnas
+	"code": "B8000000" ,
+	"hour":"4:00 PM"
 }
 
 # END POINTS
